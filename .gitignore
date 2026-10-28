@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Downloaded data and outputs (can be large; regenerate them with the scripts)
+data/
+results/
+results_*/
